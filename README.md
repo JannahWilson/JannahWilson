@@ -3,7 +3,7 @@
 <!--
 **JannahWilson/JannahWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Jannah (pronouced Jenna), I am a freshmen here at NCC working towards earning a degree in Computer Science! I enjoy reading, running, watching anime, and searching for vintage items online. I aspire to become a Software Engineer and later use the skills I've learned in the tech industrty to shift into the automotive industry!
+### My name is Jannah (pronouced Jenna), I am a freshmen here at NCC working towards earning a degree in Computer Science! I enjoy reading, running, watching anime, and searching for vintage items online. I aspire to become a Software Engineer and later use the skills I've learned in the tech industrty to shift into the automotive industry!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
